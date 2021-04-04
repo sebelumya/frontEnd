@@ -1,0 +1,16 @@
+div{
+    background-color:green;
+    height: 100px;   
+}
+.black{
+    background-color:rgb(0, 0, 0);
+    height: 100px;   
+}
+.green{
+    background-color:rgb(0, 148, 0);
+    height: 100px;   
+}
+.hotpink{
+    background-color:hotpink;
+    height: 100px;   
+}

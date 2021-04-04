@@ -1,0 +1,51 @@
+body {
+    background: url("../images/backgroundskt.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.heading{
+    background-color: #ff5e00;
+    width: 50%;
+    border-radius: 20px;
+    margin-left: 25%;
+}
+
+i{
+    color: blue;
+    text-decoration-thickness:10px;
+}
+
+.para {
+    text-align: center;
+    background-color: #ff5e00;
+    border-radius: 30px;
+    font-family:  'Dela Gothic One',sans-serif;
+    font-size: 30px;
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 5px;
+}
+
+
+
+h1 {
+    text-align:center;
+    color: rgb(255, 255, 255);
+    margin: 0em auto;
+    margin-top: 3em;
+    font-family: 'New Tegomin', sans-serif;
+    font-size: 3em;
+}
+
+button {
+
+    background-color: rgb(46, 53, 42);
+    padding: 20px;
+    font-size: 2/3em;
+    border-radius: 20px;
+    border-color: lightcyan;
+    color: white;
+    font-family: sans-serif;
+
+}

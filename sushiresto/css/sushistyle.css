@@ -1,0 +1,43 @@
+body {
+    height: 100%;
+}
+
+div {
+    position: relative;
+    z-index: 2;
+    max-width: 720px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    color:blue;
+    font-size: 50px;
+}
+
+p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:white;
+    background-color: lightcoral;
+    opacity: 0.7;
+    font-size: 30px;
+}
+a{
+    display: inline-block;
+    padding: 12px 40px;
+    border: solid 40px blue;
+    text-decoration: none;
+    color:blue;
+}
+
+video {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50%;
+    margin-left: -50%;
+    z-index: 1;
+}
